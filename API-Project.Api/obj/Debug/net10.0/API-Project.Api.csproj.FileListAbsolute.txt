@@ -35,3 +35,11 @@
 /workspaces/API-Project/API-Project.Api/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
 /workspaces/API-Project/API-Project.Api/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /workspaces/API-Project/API-Project.Api/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/workspaces/API-Project/API-Project.Api/bin/Debug/net10.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/workspaces/API-Project/API-Project.Api/bin/Debug/net10.0/Microsoft.IdentityModel.Abstractions.dll
+/workspaces/API-Project/API-Project.Api/bin/Debug/net10.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/workspaces/API-Project/API-Project.Api/bin/Debug/net10.0/Microsoft.IdentityModel.Logging.dll
+/workspaces/API-Project/API-Project.Api/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.dll
+/workspaces/API-Project/API-Project.Api/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/workspaces/API-Project/API-Project.Api/bin/Debug/net10.0/Microsoft.IdentityModel.Tokens.dll
+/workspaces/API-Project/API-Project.Api/bin/Debug/net10.0/System.IdentityModel.Tokens.Jwt.dll
